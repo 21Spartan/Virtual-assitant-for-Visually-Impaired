@@ -1,0 +1,4 @@
+cv2-python
+pyttsx3
+pytesseract
+pillow
